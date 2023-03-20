@@ -1,0 +1,11 @@
+apiVersion: v1
+metadata:
+  askId: UHGWM110-025452
+  caAgileId: 366199378300ud
+  projectKey: com.optum.ecp.core:catalog-service
+  projectFriendlyName: catalog-service
+  projectName: catalog-service
+  componentType: code
+  domain: core
+  system: core-products
+  k8sNamespace: core
